@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+household_power_consumption.txt
+Assignment06_hourly_cleaned.csv
+.ipynb_checkpoints/
